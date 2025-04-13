@@ -18,12 +18,6 @@ OS: Linux-based
 Editor: VS Code (but tempted by Vim every other week)  
 Current learning rabbit hole: custom tooling + network security
 
-### Connect
-
-I’m always open to interesting conversations, ideas, or collabs.
-
-- [Twitter](https://twitter.com/thaBlack_Kid)
-
 ### The vibe
 
 break stuff. learn. build better. repeat.
